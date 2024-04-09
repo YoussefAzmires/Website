@@ -1,0 +1,11 @@
+*{
+    background-color: rgb(5, 5, 29);
+}
+#title{
+    display: block;
+    margin: 0 auto;
+    transition: transform .2s;
+}
+#title:hover{
+    transform: scale(1.2);
+}
